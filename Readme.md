@@ -3,7 +3,7 @@ Carlo Velarde
 
 ## TOC
 * fib.py, echo.py, and an image of the fib plot are in the base of the parent directory.
-* Misc contains the .csv, .xlsx, and .py files that were used in plotting the data from fib.py. 
+* misc contains the .csv, .xlsx, and .py files that were used in plotting the data from fib.py. 
 
 ## About 
 * This repository is the solution to Assignment 1 for CS:3980. 
@@ -16,3 +16,6 @@ I also used the lru_cache decorator which speeds up run time through memoization
 * fib_to_csv.py is a python script that write data from fib() and writes it down into a csv file.
    * fib_execution_times.csv is the result of running fib_to_csv.py
 * fib_runtime.xlsx is an Excel file that contains data and the line chart. 
+
+## Fib Visual
+![Runtime visualization of fib(100) found in fib.py.](./Fib100Chart.jpg)

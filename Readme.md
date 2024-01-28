@@ -22,3 +22,10 @@ I also used the lru_cache decorator which speeds up run time through memoization
 ![Runtime visualization of fib(100) found in fib.py.](./Fib100Chart.jpg)
 
 ## Example output
+
+### echo() 
+![Example of echo("Hellooo")](./assets/echo_example.png)
+### fib(10)
+![Example of fib(10)](./assets/fib10.png)
+### fib(100)
+![Partial example of fib(110)](./assets/fib100.png)
